@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @realmike0
+- 👀 I’m interested in Python,HTML, CSS, JavaScript, React, Typescript
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: `_realmike_` on Discord | `@rial_mike` on YouTube
